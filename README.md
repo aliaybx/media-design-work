@@ -5,7 +5,7 @@ This repository showcases my work in visual content creation, including PDFs, re
 ## 🧰 Skills
 - PDF & report design
 - Image editing
-- Video editing (basic)
+- Video editing 
 
 ## 🎯 Purpose
 To support technical projects with clear, professional, and visually appealing content.
